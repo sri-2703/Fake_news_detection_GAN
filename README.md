@@ -181,5 +181,6 @@ Real-time news scraping integration
 ---
 
 🎓 Conclusion
+
 The Fake News Detection System effectively identifies misinformation using NLP and deep learning techniques.
 By integrating GAN concepts and a web interface, the system becomes more robust, scalable, and user-friendly.
