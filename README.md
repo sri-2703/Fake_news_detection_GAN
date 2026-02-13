@@ -142,6 +142,7 @@ The accuracy graph shows improvement in training and validation accuracy as epoc
 ---
 
 🌐 Web Application Features
+
 - Text input for news content
 - Real-time prediction
 - ✔ Tick mark for Real News
@@ -152,6 +153,7 @@ The accuracy graph shows improvement in training and validation accuracy as epoc
 ---
 
 ✅ Sample Inputs
+
 Real News
 Government announces new education policy for digital learning
 
@@ -161,6 +163,7 @@ Aliens secretly controlling Indian government says viral post
 ---
 
 📈 Results
+
 Achieved good accuracy on balanced dataset
 Correctly distinguishes real and fake news
 Robust performance due to TF-IDF and class balancing
@@ -168,6 +171,7 @@ Robust performance due to TF-IDF and class balancing
 ---
 
 🚀 Future Enhancements
+
 Use transformer models like BERT
 Multilingual fake news detection
 Social media-based fake news analysis
