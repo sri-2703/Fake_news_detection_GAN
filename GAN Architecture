@@ -1,0 +1,18 @@
+        Random Noise (z)
+               |
+               v
+        +----------------+
+        |   Generator    |
+        | (Fake News)    |
+        +----------------+
+               |
+        Generated Fake Samples
+               |
+               v
++--------------------------------+
+|        Discriminator           |
+|  Real News OR Fake News ?      |
++--------------------------------+
+        ^                 ^
+        |                 |
+   Real News Dataset   Generated News
